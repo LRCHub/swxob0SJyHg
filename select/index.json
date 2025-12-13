@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "アゲハ蝶",
-  "base_artist": "Porno Graffitti",
-  "createdAt": "2025-12-02T09:37:49.034136Z",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2025-12-13T14:26:07.696386Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,78 +99,6 @@
       "artist": "ポルノグラフィティ",
       "has_synced": false,
       "path": "select/pl_01_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_02_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_03_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_04_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_05_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_06_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_07_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_08_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_09_アゲハ蝶_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "アゲハ蝶",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_10_アゲハ蝶_ポルノグラフィティ.txt"
     }
   ]
 }
