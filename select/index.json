@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "アゲハ蝶 (Red Mix)",
+  "base_track": "アゲハ蝶",
   "base_artist": "ポルノグラフィティ",
-  "createdAt": "2026-02-09T18:15:29.284930Z",
+  "createdAt": "2026-02-20T01:44:41.266120Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -71,26 +71,26 @@
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "アゲハ蝶",
-      "artist": "Porno Graffitti (ポルノグラフィティ)",
+      "title": "アゲハ蝶 - Agehachou",
+      "artist": "Porno Graffitti",
       "has_synced": true,
-      "path": "select/09_アゲハ蝶_Porno_Graffitti_(ポルノグラフィティ).lrc"
+      "path": "select/09_アゲハ蝶_-_Agehachou_Porno_Graffitti.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "アゲハ蝶 (Red Mix)",
-      "artist": "Porno Graffitti",
+      "title": "アゲハ蝶",
+      "artist": "Porno Graffitti (ポルノグラフィティ)",
       "has_synced": true,
-      "path": "select/10_アゲハ蝶_(Red_Mix)_Porno_Graffitti.lrc"
+      "path": "select/10_アゲハ蝶_Porno_Graffitti_(ポルノグラフィティ).lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "アゲハ蝶 - Agehachou",
+      "title": "アゲハ蝶 (Red Mix)",
       "artist": "Porno Graffitti",
       "has_synced": true,
-      "path": "select/11_アゲハ蝶_-_Agehachou_Porno_Graffitti.lrc"
+      "path": "select/11_アゲハ蝶_(Red_Mix)_Porno_Graffitti.lrc"
     },
     {
       "id": "petitlyrics_1",
